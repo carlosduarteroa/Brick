@@ -97,15 +97,6 @@ substances = {
                                     },
                                 },
                             },
-                            "Collection_Basin_Water": {
-                                "tags": [
-                                    TAG.Fluid,
-                                    TAG.Liquid,
-                                    TAG.Water,
-                                    TAG.Collection,
-                                    TAG.Basin,
-                                ]
-                            },
                             "Blowdown_Water": {
                                 "tags": [
                                     TAG.Fluid,
@@ -121,26 +112,6 @@ substances = {
                                     TAG.Water,
                                     TAG.Condenser,
                                 ],
-                                "subclasses": {
-                                    "Supply_Condenser_Water": {
-                                        "tags": [
-                                            TAG.Fluid,
-                                            TAG.Liquid,
-                                            TAG.Water,
-                                            TAG.Condenser,
-                                            TAG.Supply,
-                                        ],
-                                    },
-                                    "Return_Condenser_Water": {
-                                        "tags": [
-                                            TAG.Fluid,
-                                            TAG.Liquid,
-                                            TAG.Water,
-                                            TAG.Condenser,
-                                            TAG.Return,
-                                        ],
-                                    },
-                                },
                             },
                             "Domestic_Water": {
                                 "tags": [

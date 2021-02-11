@@ -59,9 +59,6 @@ system_subclasses = {
                             },
                         },
                     },
-                    "Condenser_Water_System": {
-                        "tags": [TAG.Condenser, TAG.Water, TAG.System]
-                    },
                 },
             },
         },
